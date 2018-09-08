@@ -1,4 +1,4 @@
-# mcp2515java
+# MCP2515 JAVA Drive for Raspberry Pi 3
 A java driver for read and write CAN messages with the MCP2515 and Raspberry Pi 3B.
 
 This project work with raspberry pi 3B, and the "MCP2515 CAN Bus Module Board TJA1050 Receiver SPI"
